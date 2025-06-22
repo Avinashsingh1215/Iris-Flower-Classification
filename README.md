@@ -48,7 +48,7 @@ pip install -r requirements.txt
 Clone the repository:
 
 ```bash
-git clone https://github.com/MohdUmarSiddiq/Iris-flower-classification.git
+git clone https://github.com/Avinashsingh1215/Iris-flower-classification.git
 ```
 Navigate to the project directory:
 
